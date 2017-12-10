@@ -1,2 +1,2 @@
-# ECDSA
-# ECPKC
+# Elliptic Curve Public Key Cryptographic Protocol
+
