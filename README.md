@@ -1,4 +1,4 @@
-# Elliptic Curve Cryptosystem
+# Elliptic Curve Cryptography
 
 Toy model in ECProtocol.py
 
